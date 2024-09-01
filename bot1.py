@@ -309,4 +309,4 @@ async def on_message(message):
     # Stelle sicher, dass andere Befehle und Nachrichten weiterhin funktionieren
     await bot.process_commands(message)
 
-bot.run('MTI3NjU5MTMwMzY5MzU3MDE3MA.G2kdpq.3vW8bivssgUhv0sc27v4D8MurLpOER25YBr8wo')
+bot.run('TOKEN')
